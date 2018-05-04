@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ReadData", "ReadData.vcxproj", "{991458C8-1522-44D1-B05F-C820C8862FDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{991458C8-1522-44D1-B05F-C820C8862FDB}.Debug|x86.ActiveCfg = Debug|Win32
+		{991458C8-1522-44D1-B05F-C820C8862FDB}.Debug|x86.Build.0 = Debug|Win32
+		{991458C8-1522-44D1-B05F-C820C8862FDB}.Release|x86.ActiveCfg = Release|Win32
+		{991458C8-1522-44D1-B05F-C820C8862FDB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7180ACF5-CA8A-4008-8FDD-C940AE24C3A3}
+	EndGlobalSection
+EndGlobal
